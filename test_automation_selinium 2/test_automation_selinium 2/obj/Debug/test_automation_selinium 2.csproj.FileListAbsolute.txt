@@ -1,0 +1,13 @@
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\test_automation_selinium 2.exe.config
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\test_automation_selinium 2.exe
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\test_automation_selinium 2.pdb
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\bin\Debug\WebDriver.dll
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\obj\Debug\test_automation_selinium 2.csproj.AssemblyReference.cache
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\obj\Debug\test_automation_selinium 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\obj\Debug\test_automation_selinium 2.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\obj\Debug\test_automation_selinium 2.csproj.CopyComplete
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\obj\Debug\test_automation_selinium 2.exe
+C:\Users\Rasha\source\repos\test_automation_selinium 2\test_automation_selinium 2\obj\Debug\test_automation_selinium 2.pdb
